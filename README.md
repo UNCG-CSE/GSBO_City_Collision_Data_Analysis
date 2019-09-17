@@ -1,6 +1,6 @@
 # GSBO City Collision Data Analysis
 ## TeamMembers
-Jorge Salas 
+<br>Jorge Salas<br> 
 Daniel Frye
 Dmithra Ratnayake
 Sahiti Vanteru

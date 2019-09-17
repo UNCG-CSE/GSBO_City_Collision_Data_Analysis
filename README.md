@@ -13,4 +13,5 @@ a better understanding of the data is our current goal.
 
 ## References
 [1]: https://github.com/SALASJA
-
+[2]: https://github.com/danfrye
+[3]: https://github.com/C-001

@@ -1,16 +1,16 @@
 # GSBO City Collision Data Analysis
 ## TeamMembers
-- Jorge Salas 
-- Daniel Frye
-- Dmithra Ratnayake
-- Sahiti Vanteru
-- Byungjin Kang
+- [Jorge Salas][1] 
+- [Daniel Frye][2]
+- [Dmithra Ratnayake][3]
+- [Sahiti Vanteru][4]
+- [Byungjin Kang][5]
 
 ## Description
 Our group is dedicated in analyzing the Greensboro traffic collision data
 with the main goal of bringing fatalitie rates down to zero. However, seeking 
 a better understanding of the data is our current goal.
 
-## Team Member Links
-https://github.com/SALASJA
+## References
+[1]: https://github.com/SALASJA
 

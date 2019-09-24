@@ -1,3 +1,4 @@
+Dimithra-
 Initial literature review indicated that intersections, speed limits and infrastructure are major areas that related to collisions
 which can be controlled by authorities. While complex and non-signalized intersections seem to increase the chance of collisions,
 speed limit increase has also increased total fatal collision rate.
@@ -13,3 +14,4 @@ Jorge-Made a report, current still investigating the data, still unclear
 
 Daniel-Wrote a first paragraph: The reduction of motor vehicular related deaths have occurred since the introduction of motorized vehicles in the late 19th century. The primary objective of this project is to ?nd a pattern that will help the City of Greensboro reduced the number of fatalities to zero which was in?uenced by Sweden. The use of Geographical Information Systems will be utilized to further our understanding of the raw data by visualization. 
 
+Jin Kang - Looked over the data, and figured out how to use basics of python program. If we know how to investigate the data, I will be able to analyze the data.

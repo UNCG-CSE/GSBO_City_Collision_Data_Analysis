@@ -11,3 +11,5 @@ Jorge-Made a report, current still investigating the data, still unclear
       How to do this in the way its expected. Doing this stuff in an
       impromptu way would have been easier and made more sense
 
+Daniel-Wrote a first paragraph: The reduction of motor vehicular related deaths have occurred since the introduction of motorized vehicles in the late 19th century. The primary objective of this project is to ?nd a pattern that will help the City of Greensboro reduced the number of fatalities to zero which was in?uenced by Sweden. The use of Geographical Information Systems will be utilized to further our understanding of the raw data by visualization. 
+

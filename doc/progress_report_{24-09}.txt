@@ -16,4 +16,6 @@ speed limit increase has also increased total fatal collision rate.
 
 
 Sahithi - 
-The data we were given is historic information of vehicular accidents . We use a software called QGIS to visualize shape files. We are investigating on what techniques to use to visualize the comma seperated files  we were given after cleaning them , to get useful solutions from the data. We are also starting to learn QGIS and how to visualize the geo spatial data we were given.
+The data we were given is historic information of vehicular accidents .
+We use a software called QGIS to visualize shape files. We are investigating on what techniques to use to visualize the comma seperated files  we were given after cleaning them , to get useful solutions from the data. We are also starting to learn QGIS and how to visualize the geo spatial data we were given.
+Task - Investigate the kaggle data and research on what  data science techniques to use.

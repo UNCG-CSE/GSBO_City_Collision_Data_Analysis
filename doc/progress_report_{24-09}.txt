@@ -9,4 +9,6 @@
 
 
 
-Initial literature review indicated that intersections, speed limits and infrastructure are major areas that related to collisions which can be controlled by authorities. While complex and non-signalized intersections seem to increase the chance of collisions, speed limit increase has also increased total fatal collision rate.
+Initial literature review indicated that intersections, speed limits and infrastructure are major areas that related to collisions
+which can be controlled by authorities. While complex and non-signalized intersections seem to increase the chance of collisions,
+speed limit increase has also increased total fatal collision rate.

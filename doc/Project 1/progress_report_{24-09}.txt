@@ -1,0 +1,17 @@
+Dimithra-
+Initial literature review indicated that intersections, speed limits and infrastructure are major areas that related to collisions
+which can be controlled by authorities. While complex and non-signalized intersections seem to increase the chance of collisions,
+speed limit increase has also increased total fatal collision rate.
+
+Sahithi - 
+The data we were given is historic information of vehicular accidents .
+We use a software called QGIS to visualize shape files. We are investigating on what techniques to use to visualize the comma seperated files  we were given after cleaning them , to get useful solutions from the data. We are also starting to learn QGIS and how to visualize the geo spatial data we were given.
+Task - Investigate the kaggle data and research on what  data science techniques to use.
+
+Jorge-Made a report, current still investigating the data, still unclear
+      How to do this in the way its expected. Doing this stuff in an
+      impromptu way would have been easier and made more sense
+
+Daniel-Wrote a first paragraph: The reduction of motor vehicular related deaths have occurred since the introduction of motorized vehicles in the late 19th century. The primary objective of this project is to ?nd a pattern that will help the City of Greensboro reduced the number of fatalities to zero which was in?uenced by Sweden. The use of Geographical Information Systems will be utilized to further our understanding of the raw data by visualization. 
+
+Jin Kang - Looked over the data, and figured out how to use basics of python program. If we know how to investigate the data, I will be able to analyze the data.

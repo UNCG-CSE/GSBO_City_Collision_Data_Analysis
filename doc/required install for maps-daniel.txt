@@ -1,0 +1,6 @@
+pip install folium 
+pip install pandas
+pip install plotly
+pip install datetime
+pip install seaborn
+pip install matplotlib

@@ -31,7 +31,7 @@ a better understanding of the data is our current goal.
 - [Byungjin Kang][5]
   - Implemented a shapefile of block and merged the shapefile with population data
   - Obtained a scatter plot of the number of collision and the Greensboro population
-  - Since the Census had different standard of dividing region into blocks, some blocks are on the border of Greensboro so that the population of the blocks include both inside and outside of Greensboro. This made me difficult to distinguish. Even though I implemented a linear regression line, the line did not provide a refined result.
+  - Since the Census had different standard of dividing region into blocks, some blocks are on the border of Greensboro so that the population of the blocks include both inside and outside of Greensboro. This made me difficult to distinguish. Even though the population increases, the number of collision is likely to stay the same. And p-value was too high.
 
 ## Software Required
   ### Required modules:

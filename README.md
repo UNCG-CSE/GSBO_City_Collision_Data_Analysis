@@ -41,6 +41,9 @@ a better understanding of the data is our current goal.
   ### Required libraries:
   - shapely
     - Provides 'contains' function which return boolean value if a point is within a polygon.
+  - numpy
+  - pandas
+  - statsmodel
 
 ## References
 [1]: https://github.com/SALASJA

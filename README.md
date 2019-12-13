@@ -41,7 +41,7 @@ a better understanding of the data is our current goal.
 -Performed random forest classification for weather data that has severity levels of 1 to 10 and compred to kNearest and decision tree classifiers and found out that decision tre eclassifier gives maximum accuracy of around 78%.
 
 -[Dmithra Ratnayake][3]
- - Identified 5 pedestrian collision hotspots which have more than 5 collision in an individual location by conducting DBSCAN unsupervised learning method with a maximum distance of 25 meters and a minimum cluster size of 1.
+ - Identified 5 pedestrian collision hotspots which have more than 5 collision in an individual location by conducting DBSCAN unsupervised learning method with a maximum distance of 25 meters and a minimum cluster size of 1. Those locations are,
 	- 4302 BIG TREE WAY / W WENDOVER AV
 	- 4424 W WENDOVER AV / BRIDFORD PKWY
 	- S AYCOCK ST / WALKER AV

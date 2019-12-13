@@ -54,6 +54,10 @@ a better understanding of the data is our current goal.
   ### Required modules:
   - conda install geopandas
     - Provides GeoDataFrame which can deal with geometry or points data
+  - shap
+  - datetime
+  - geopy
+  - sklearn
   
   ### Required libraries:
   - shapely
@@ -61,6 +65,11 @@ a better understanding of the data is our current goal.
   - numpy
   - pandas
   - statsmodel
+  - matplotlib.pyplot
+  - seaborn
+  - scipy.stats
+  - category_encoders
+
 
 ## References
 [1]: https://github.com/SALASJA

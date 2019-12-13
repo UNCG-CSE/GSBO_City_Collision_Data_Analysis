@@ -40,13 +40,15 @@ a better understanding of the data is our current goal.
 - Performed ARIMA (Automated Regression and Integration of Moving Averages) time series model to predict the trends of accidents for years 2019 and 202 and the accuracy for the model was 69.8%.
 -Performed random forest classification for weather data that has severity levels of 1 to 10 and compred to kNearest and decision tree classifiers and found out that decision tre eclassifier gives maximum accuracy of around 78%.
 
-- [Dmithra Ratnayake][3]
- - Identified 5 pedestrian collision hotspots which have more than 5 collision in an individual location.
+-[Dmithra Ratnayake][3]
+ - Identified 5 pedestrian collision hotspots which have more than 5 collision in an individual location by conducting DBSCAN unsupervised learning method with a maximum distance of 25 meters and a minimum cluster size of 1.
 	- 4302 BIG TREE WAY / W WENDOVER AV
 	- 4424 W WENDOVER AV / BRIDFORD PKWY
 	- S AYCOCK ST / WALKER AV
 	- E MARKET ST / S ELM ST
 	- 3106 SUMMIT AV.
+ - Random forest classification model indicated that the day of the week and time of the collision are the most important features for collision severity.
+ - Further analysis indicated that most sever collisions are occuring during Fridays and during night time.
 
 ## Software Required
   ### Required modules:

@@ -33,6 +33,12 @@ a better understanding of the data is our current goal.
   - Obtained a scatter plot of the number of collision and the Greensboro population
   - Since the Census had different standard of dividing region into blocks, some blocks are on the border of Greensboro so that the population of the blocks include both inside and outside of Greensboro. This made me difficult to distinguish. Even though the population increases, the number of collision is likely to stay the same. And p-value was too high.
   - There were some areas located on the west and the middle of guilford county that have outstanding number of collisions
+  
+-[Sahithi Vanteru][4]
+-Plotted poissons distribution among frequency of accidents on weekdays and weekends and also in day time interval and night time interval.
+-Performed T-test on the distributions and rejected to fail null hypothesis on distribution of weekdays and weekends data and accepted the null hypothesis failure for distribution among time intervals data.
+- Performed ARIMA (Automated Regression and Integration of Moving Averages) time series model to predict the trends of accidents for years 2019 and 202 and the accuracy for the model was 69.8%.
+-Performed random forest classification for weather data that has severity levels of 1 to 10 and compred to kNearest and decision tree classifiers and found out that decision tre eclassifier gives maximum accuracy of around 78%.
 
 ## Software Required
   ### Required modules:
